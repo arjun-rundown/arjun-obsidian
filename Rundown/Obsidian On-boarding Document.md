@@ -1,12 +1,9 @@
 ---
-title: '"Obsidian On-boarding Document"'
+title: Obsidian On-boarding Document
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
-
 >[!SUMMARY]- Table of Contents
 >- [[Obsidian On-boarding Document#Installing Obsidian|Installing Obsidian]]
 >- [[Obsidian On-boarding Document#Setting up Obsidian|Setting up Obsidian]]

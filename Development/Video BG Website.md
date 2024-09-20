@@ -1,11 +1,9 @@
 ---
-title: '"Website Video Background"'
+title: Video BG Website
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
+
 # Related Notes
 #### HTML
 ```

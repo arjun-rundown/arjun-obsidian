@@ -1,11 +1,10 @@
 ---
-title: '"Headers Code"'
+title: Headers Code
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
+ 
 # Related Notes
 #### Translucent Header with Blur BG effect####
 ```
