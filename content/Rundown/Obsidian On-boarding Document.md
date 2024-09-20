@@ -18,7 +18,7 @@ tags: []
 sudo apt install obsidian
 ```
 
-	![[Screenshot from 2024-09-20 04-15-36.png]]
+![[Screenshot from 2024-09-20 04-15-36.png]]
 
 # Setting up Obsidian
 - [ ] Once your are done installing open obsidian on your computer. 
