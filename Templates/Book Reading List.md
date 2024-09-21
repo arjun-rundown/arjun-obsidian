@@ -1,20 +1,17 @@
 ---
-Date Added: "[[{{date:DD-MM-YY}}]]"
+title: {{title}} 
+author: {{author}} 
+category: {{category}}
+publisher: {{publisher}} 
+publishdate: {{publishDate}} 
+pages: {{totalPage}} 
+cover: {{coverUrl}} 
+rating: 
+date read: 
+status:
 tags: 
-Category: 
-Genre:
-  - "[[{{category}}]]"
-Author:
-  - "[[{{author}}]]"
-URL: 
-Rating: 
-Priority: 
-Format: 
-Cover: "![{{Title}}]({{coverUrl}})"
-Reading-Status:
-  - Unread
-Date Completed:
 ---
+
 ![cover|150]({{coverurl}}.md)
 
 ## {{title}}

@@ -1,20 +1,17 @@
 ---
-Date Added: "[[21-09-24]]"
-tags: 
-Category: 
-Genre:
-  - "[[Self-Help]]"
-Author:
-  - "[[Jordan B. Peterson]]"
-URL: 
-Rating: 
-Priority: 
-Format: 
-Cover: "![12 Rules for Life](http://books.google.com/books/content?id=u8w_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)"
-Reading-Status:
-  - Unread
-Date Completed:
+title: 12 Rules for Life 
+author: Jordan B. Peterson 
+category: Self-Help
+publisher: Penguin UK 
+publishdate: 2018-01-16 
+pages: 536 
+cover: http://books.google.com/books/content?id=u8w_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api 
+rating: 
+date read: 
+status:
+tags: Book
 ---
+
 ![cover|150](http://books.google.com/books/content?id=u8w_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api.md)
 
 ## 12 Rules for Life
