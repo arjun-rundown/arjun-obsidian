@@ -1,4 +1,15 @@
-# Notes
+---
+title: <% tp.file.title %>
+tags:
+---
 
-# Links
+## Today's Thoughts
 
+## Tasks
+```todoist
+filter: "today | overdue"
+```
+
+## Links Collected today
+
+ 
